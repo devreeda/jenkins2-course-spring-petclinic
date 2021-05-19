@@ -177,7 +177,6 @@
             <artifactId>joda-time-jsptags</artifactId>
             <version>${jodatime-jsptags.version}</version>
         </dependency>
-
         <!-- Databases - Uses HSQL by default -->
         <dependency>
             <groupId>org.hsqldb</groupId>
